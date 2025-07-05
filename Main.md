@@ -8,11 +8,11 @@ I am Arnab Roy Chowdhury. I am a software developer and trainer from India.
 
 ## Education
 
-- Secondary from `Belgharia High School` in 2001
-- Higher Secondary from `Ashokegarh High School` in 2003
-- B Tech From `Bengal Institute of Technology` in 2007
+- Secondary in 2001
+- Higher Secondary in 2003
+- B Tech in 2007
 
-## Work Experiences
+## Work experiences
 
 - Software Trainer in `Hard Soft Information System` from Aug 2008 to Oct 2010
 - Consultant in `DPS Technologies India Pvt. Ltd.` from Dec 2010 to Nov 2011
@@ -25,7 +25,7 @@ I am Arnab Roy Chowdhury. I am a software developer and trainer from India.
 
 - Azure Fundamentals (AZ-900) in 2021
 
-## Technical Skills
+## Technical skills
 
 - ASP.NET
 - C#
