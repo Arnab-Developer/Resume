@@ -10,7 +10,7 @@ I am Arnab Roy Chowdhury. I am a software developer and trainer from India.
 
 - Secondary in 2001
 - Higher Secondary in 2003
-- B Tech in 2007
+- B Tech in Information Technology in 2007
 
 ## Work experiences
 
