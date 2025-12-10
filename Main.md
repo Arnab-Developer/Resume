@@ -33,3 +33,5 @@ I am Arnab Roy Chowdhury. I am a software developer and trainer from India.
 - Infra management: Terraform
 - CI/CD: GitHub Actions and Azure Pipelines
 - Automation scripting: PowerShell
+- Repo management: GitHub and Bitbucket
+- Dev tools: Visual Studio and Visual Studio Code
