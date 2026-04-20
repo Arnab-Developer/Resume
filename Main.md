@@ -35,3 +35,4 @@ I am Arnab Roy Chowdhury. I am a software developer and trainer from India.
 - Automation scripting: PowerShell
 - Repo management: GitHub and Bitbucket
 - Dev tools: Visual Studio and Visual Studio Code
+- AI: GitHub Copilot
