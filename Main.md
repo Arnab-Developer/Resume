@@ -30,7 +30,7 @@ I am Arnab Roy Chowdhury. I am a software developer and trainer from India.
 
 - Application development: ASP.NET, C# and SQL Server
 - Cloud hosting: Azure and AWS
-- Infra management: Terraform
+- Infra management (IaC): Terraform
 - CI/CD: GitHub Actions and Azure Pipelines
 - Automation scripting: PowerShell
 - Repo management: GitHub and Bitbucket
