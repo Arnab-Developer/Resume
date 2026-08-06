@@ -4,7 +4,7 @@ India | Email: arnab.roy.chowdhury.developer@gmail.com
 
 ## Summary
 
-Seasoned **Technical Lead & Senior Software Engineer** with **17+ years of total experience** (12+ years at Cognizant) specializing in end-to-end application development, cloud solutions, and infrastructure automation. Expertise in designing, building, and scaling enterprise backend applications using **C#, ASP.NET, SQL Server**, and cloud environments (**Azure & AWS**). Proven track record in orchestrating continuous integration and delivery (CI/CD) pipelines via **GitHub Actions** and **Azure Pipelines**, implementing **Terraform** for Infrastructure as Code (IaC), and leveraging modern **AI-assisted engineering tools** (GitHub Copilot) to accelerate delivery timelines. Strong technical mentor with foundational experience as a corporate software trainer.
+Seasoned Technical Lead & Senior Software Engineer with 17+ years of total experience specializing in end-to-end application development, cloud solutions, and infrastructure automation. Expertise in designing, building, and scaling enterprise backend applications using C#, ASP.NET, SQL Server and cloud environments (Azure & AWS). Proven track record in orchestrating continuous integration and delivery (CI/CD) pipelines via GitHub Actions and Azure Pipelines, implementing Terraform for Infrastructure as Code (IaC), and leveraging modern AI-assisted engineering tools (GitHub Copilot) to accelerate delivery timelines. Strong technical mentor with foundational experience as a corporate software trainer.
 
 ## Technical Skills
 
