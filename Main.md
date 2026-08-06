@@ -2,11 +2,11 @@
 
 Kolkata, India | LinkedIn: [Your Profile] | GitHub: [Your Profile] | Email: [Your Email] | Phone: [Your Phone]
 
-## PROFESSIONAL SUMMARY
+## Summary
 
 Seasoned **Technical Lead & Senior Software Engineer** with **17+ years of total experience** (12+ years at Cognizant) specializing in end-to-end application development, cloud solutions, and infrastructure automation. Expertise in designing, building, and scaling enterprise backend applications using **C#, ASP.NET, SQL Server**, and cloud environments (**Azure & AWS**). Proven track record in orchestrating continuous integration and delivery (CI/CD) pipelines via **GitHub Actions** and **Azure Pipelines**, implementing **Terraform** for Infrastructure as Code (IaC), and leveraging modern **AI-assisted engineering tools** (GitHub Copilot) to accelerate delivery timelines. Strong technical mentor with foundational experience as a corporate software trainer.
 
-## CORE COMPETENCIES
+## Technical Skills
 
 * **Application & API Development:** C#, ASP.NET, ASP.NET Core, RESTful Web APIs, SQL Server, Relational Database Design
 * **Cloud Architecture & IaC:** Microsoft Azure (AZ-900 Certified), AWS, Terraform (Infrastructure provisioning)
@@ -14,7 +14,7 @@ Seasoned **Technical Lead & Senior Software Engineer** with **17+ years of total
 * **Development Tools & AI:** Visual Studio, Visual Studio Code, GitHub Copilot (AI-Driven Development)
 * **Leadership & Engineering Management:** Technical Architecture, Code Reviews, Team Mentorship, Agile/Scrum Methodologies
 
-## PROFESSIONAL EXPERIENCE
+## Work Experience
 
 ### **Cognizant** | Kolkata, India
 
@@ -54,12 +54,12 @@ Seasoned **Technical Lead & Senior Software Engineer** with **17+ years of total
 
 * Delivered technical training on programming concepts, database fundamentals, and software development methodologies to students and junior engineers.
 
-## CERTIFICATIONS
+## Certifications
 
 * **Microsoft Certified: Azure Fundamentals (AZ-900)** – Microsoft (*2021*)
 * **ASP.NET Certified Developer** – Cognizant Academy (*2015*)
 
-## EDUCATION
+## Education
 
 * **Bachelor of Technology (B.Tech) in Information Technology**
 *Graduated: 2007*
