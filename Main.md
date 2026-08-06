@@ -8,11 +8,11 @@ Seasoned Technical Lead & Senior Software Engineer with 17+ years of total exper
 
 ## Technical Skills
 
-* **Application & API Development:** C#, ASP.NET, ASP.NET Core, RESTful Web APIs, SQL Server, Relational Database Design
-* **Cloud Architecture & IaC:** Microsoft Azure (AZ-900 Certified), AWS, Terraform (Infrastructure provisioning)
-* **DevOps & CI/CD:** GitHub Actions, Azure Pipelines, PowerShell Scripting, Version Control (GitHub, Bitbucket)
-* **Development Tools & AI:** Visual Studio, Visual Studio Code, GitHub Copilot (AI-Driven Development)
-* **Leadership & Engineering Management:** Technical Architecture, Code Reviews, Team Mentorship, Agile/Scrum Methodologies
+* Application & API Development: ASP.NET, ASP.NET Core, C#, RESTful Web APIs, SQL Server, Relational Database Design
+* Cloud Architecture & IaC: Microsoft Azure (AZ-900 Certified), AWS, Terraform (Infrastructure provisioning)
+* DevOps & CI/CD: GitHub Actions, Azure Pipelines, PowerShell Scripting, Version Control (GitHub, Bitbucket)
+* Development Tools & AI: Visual Studio, Visual Studio Code, GitHub Copilot (AI-Driven Development)
+* Leadership & Engineering Management: Technical Architecture, Code Reviews, Team Mentorship, Agile/Scrum Methodologies
 
 ## Work Experience
 
