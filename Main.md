@@ -1,6 +1,6 @@
 # Arnab Roy Chowdhury
 
-Kolkata, India | LinkedIn: [Your Profile] | GitHub: [Your Profile] | Email: [Your Email] | Phone: [Your Phone]
+India | Email: arnab.roy.chowdhury.developer@gmail.com
 
 ## Summary
 
