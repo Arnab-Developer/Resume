@@ -67,10 +67,3 @@ Software Trainer | *Aug 2008 – Oct 2010*
 *Completed: 2003*
 * Secondary (Class X) \
 *Completed: 2001*
-
-### Key Improvements Made to Your Draft:
-
-1. **Strong Executive Summary:** Framed your experience around key senior keywords (Technical Lead, End-to-End Delivery, Cloud Architecture, IaC, CI/CD).
-2. **Impact-Oriented Work History:** Grouped your long, successful tenure at Cognizant to highlight clear career progression from Software Engineer to Technical Lead.
-3. **Modern Technical Grouping:** Highlighted high-value modern skills (Terraform, Azure Pipelines, GitHub Copilot) alongside foundational .NET expertise to immediately capture ATS scanners and hiring managers.
-4. **Action Verbs:** Replaced basic task statements with active engineering terminology (*Lead technical design, Automate deployment workflows, Implement Infrastructure as Code*).
