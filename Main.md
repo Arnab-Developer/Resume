@@ -2,15 +2,6 @@
 
 I am Arnab Roy Chowdhury. I am a software developer and trainer from India.
 
-## Work experiences
-
-- Technical Lead at `Cognizant` (Jan 2021 - present)
-- Software Engineer at `Cognizant` (Oct 2013 - Dec 2020)
-- Application Programmer at `Web Spiders` (May 2012 - Oct 2013)
-- Junior Software Engineer at `DPS Technologies India Pvt. Ltd.` (Dec 2011 - May 2012)
-- Consultant at `DPS Technologies India Pvt. Ltd.` (Dec 2010 - Nov 2011)
-- Software Trainer at `Hard Soft Information System` (Aug 2008 - Oct 2010)
-
 ## Technical Skills
 
 * Application development: ASP.NET, C# and SQL Server
@@ -22,6 +13,15 @@ I am Arnab Roy Chowdhury. I am a software developer and trainer from India.
 * Development tools: Visual Studio and Visual Studio Code
 * AI: GitHub Copilot
 
+## Work experiences
+
+- Technical Lead at `Cognizant` (Jan 2021 - present)
+- Software Engineer at `Cognizant` (Oct 2013 - Dec 2020)
+- Application Programmer at `Web Spiders` (May 2012 - Oct 2013)
+- Junior Software Engineer at `DPS Technologies India Pvt. Ltd.` (Dec 2011 - May 2012)
+- Consultant at `DPS Technologies India Pvt. Ltd.` (Dec 2010 - Nov 2011)
+- Software Trainer at `Hard Soft Information System` (Aug 2008 - Oct 2010)
+
 ## Certifications
 
 * Azure Fundamentals (AZ-900) – Microsoft (*2021*)
@@ -29,9 +29,6 @@ I am Arnab Roy Chowdhury. I am a software developer and trainer from India.
 
 ## Education
 
-* Bachelor of Technology (B.Tech) in Information Technology \
-*Graduated: 2007*
-* Higher Secondary (Class XII) \
-*Completed: 2003*
-* Secondary (Class X) \
-*Completed: 2001*
+* Bachelor of Technology (B.Tech) in Information Technology - 2007
+* Higher Secondary (Class XII) - 2003
+* Secondary (Class X) - 2001
