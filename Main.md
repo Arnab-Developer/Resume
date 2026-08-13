@@ -1,6 +1,6 @@
-# Arnab Roy Chowdhury
+## About
 
-Software developer and trainer from India.
+I am Arnab Roy Chowdhury. I am a software developer and trainer from India.
 
 ## Work Experiences
 
