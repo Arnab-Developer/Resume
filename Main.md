@@ -13,11 +13,14 @@ I am Arnab Roy Chowdhury. I am a software developer and trainer from India.
 
 ## Technical Skills
 
-* Application & API Development: ASP.NET, ASP.NET Core, C#, RESTful Web APIs, SQL Server, Relational Database Design
-* Cloud Architecture & IaC: Microsoft Azure (AZ-900 Certified), AWS, Terraform (Infrastructure provisioning)
-* DevOps & CI/CD: GitHub Actions, Azure Pipelines, PowerShell Scripting, Version Control (GitHub, Bitbucket)
-* Development Tools & AI: Visual Studio, Visual Studio Code, GitHub Copilot (AI-Driven Development)
-* Leadership & Engineering Management: Technical Architecture, Code Reviews, Team Mentorship, Agile/Scrum Methodologies
+* Application development: ASP.NET, C# and SQL Server
+* Cloud hosting: Azure and AWS
+* Infra management: Terraform
+* Repo management: GitHub and Bitbucket
+* CI/CD: GitHub Actions and Azure Pipelines
+* Scripting: PowerShell
+* Development tools: Visual Studio and Visual Studio Code
+* AI: GitHub Copilot
 
 ## Work Experiences
 
