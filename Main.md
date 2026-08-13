@@ -4,12 +4,12 @@ I am Arnab Roy Chowdhury. I am a software developer and trainer from India.
 
 ## Work experiences
 
-- `Technical Lead` at `Cognizant` (Jan 2021 - present)
-- `Software Engineer` at `Cognizant` (Oct 2013 - Dec 2020)
-- `Application Programmer` at `Web Spiders` (May 2012 - Oct 2013)
-- `Junior Software Engineer` at `DPS Technologies India Pvt. Ltd.` (Dec 2011 - May 2012)
-- `Consultant` at `DPS Technologies India Pvt. Ltd.` (Dec 2010 - Nov 2011)
-- `Software Trainer` at `Hard Soft Information System` (Aug 2008 - Oct 2010)
+- Technical Lead at `Cognizant` (Jan 2021 - present)
+- Software Engineer at `Cognizant` (Oct 2013 - Dec 2020)
+- Application Programmer at `Web Spiders` (May 2012 - Oct 2013)
+- Junior Software Engineer at `DPS Technologies India Pvt. Ltd.` (Dec 2011 - May 2012)
+- Consultant at `DPS Technologies India Pvt. Ltd.` (Dec 2010 - Nov 2011)
+- Software Trainer at `Hard Soft Information System` (Aug 2008 - Oct 2010)
 
 ## Technical Skills
 
