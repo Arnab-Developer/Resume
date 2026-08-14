@@ -24,8 +24,8 @@ I am Arnab Roy Chowdhury. I am a software developer and trainer from India.
 
 ## Certifications
 
-* Azure Fundamentals (AZ-900) – Microsoft (*2021*)
-* ASP.NET – Cognizant Academy (*2015*)
+* Azure Fundamentals (AZ-900) – Microsoft (2021)
+* ASP.NET – Cognizant Academy (2015)
 
 ## Education
 
